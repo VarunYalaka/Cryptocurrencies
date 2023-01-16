@@ -45,3 +45,5 @@ One of the prominent investment bank is interested in offering a new cryptocurre
 ![Screenshot 2023-01-11 at 12 14 47 AM](https://user-images.githubusercontent.com/44387918/211756261-80d369d9-ee1c-49d4-8ee8-307335b6e516.png)
 
 ### Summary: 
+After dropping non tradable ones, there are 532 tradable cryptocurrencies.
+Using the Elbow curve, found that the number of clusters are 4. Initialized the K-means model by defining n_clusters =4 and gathered predictions data. Visualized the data in a scatter plot and observed some data points mixed in the middle. Plotted the same data using 3D-Scatter for the better visualization, and observed lot mined coins are between class 1 to 3. However, Bittorrent is not suggestible as the trading transaction is low.
